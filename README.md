@@ -1,6 +1,6 @@
 # UFG - Disciplinas de Programação
 
-Este repositório reúne os códigos, exercícios e implementações desenvolvidos durante a graduação na **Universidade Federal de Goiás (UFG)**. O foco principal deste acervo são as disciplinas de base da Ciência da Computação, desenvolvidas majoritariamente em **C**.
+Este repositório reúne os códigos, exercícios e implementações desenvolvidos durante a graduação na **Universidade Federal de Goiás (UFG)**. O foco principal deste acervo são as disciplinas de base da Ciência da Computação, desenvolvidas em **C**.
 
 ## 📂 Estrutura do Repositório
 
